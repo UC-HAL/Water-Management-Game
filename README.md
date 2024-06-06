@@ -1,1 +1,2 @@
 # Water-Management-Game
+This game has been adapted from the University of Twenty’s River Basin game (Hoekstra, 2012), which is an open-source water management SG where players take on the role of farmers living in three reaches of a river basin, organized from upstream to downstream. The Canadian-specific version of Hoekstra (2012) was developed over the course of several years for undergraduate and graduate level postsecondary education around water management. In the Canadian context, the game model’s the Saskatchewan River basin. The game is described in Stadnyk (xxxx).
